@@ -1,1 +1,21 @@
+body {
+	font-size: small;
+	font-family: Century Gothic, Helvetica, Arial, sans-serif;
+	line-height: 1.6em;
+	width: 960px;
+	margin: 50px auto 50px auto;
+	background-color: #99CCFF;
+	float: center;
+}
+	
+h1 {
+	color: green;
+}
 
+h2 {
+	font-family: Arial;
+}
+
+hr {
+	line-style: dashed;
+}
