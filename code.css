@@ -4,18 +4,26 @@ body {
 	line-height: 1.6em;
 	width: 960px;
 	margin: 50px auto 50px auto;
-	background-color: #99CCFF;
-	float: center;
-}
-	
-h1 {
-	color: green;
-}
-
-h2 {
-	font-family: Arial;
+	background-color: #000000;
 }
 
 hr {
 	line-style: dashed;
+}
+
+body {
+  background-image: url('http://goo.gl/HBU1yd');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center top;
+  background-size: cover;
+  color: #FFFFFF;
+}
+
+a {
+  color: #CCCCCC;
+}
+
+a:hover { 
+    color: #949494;
 }
