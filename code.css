@@ -27,3 +27,7 @@ a {
 a:hover { 
     color: #949494;
 }
+
+.row {
+	text-align: center
+}
